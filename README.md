@@ -41,11 +41,11 @@ Git | GitHub | Postman | AWS | VS Code | Eclipse
 ---
 
 ## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARamnaraianan&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARamnaraianan&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARamnaraianan&layout=compact" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARamnaraianan&layout=compact&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ARamnaraianan&theme=dark)
 
 ---
 
