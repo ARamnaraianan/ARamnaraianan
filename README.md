@@ -1,67 +1,63 @@
-# Hi 👋, I'm Ramnaraianan Arunagiri
-
-🎓 BE Computer Science Graduate (2025)  
-💻 Java Full Stack Developer  
-🌱 Currently learning AWS  
-📍 Salem
+<h1 align="center">Hi 👋, I'm Ramnaraianan Arunagiri</h1>
+<h3 align="center">Java Full Stack Developer | Spring Boot | React | MySQL </h3>
 
 ---
 
-## 🚀 Skills
+## 👨‍💻 About Me
+- 🎓 BE Computer Science Graduate (2025)
+- 💻 Java Full Stack Developer
+- 🌱 Currently learning Spring Boot, React 
+- 🔭 Working on Full Stack Web Applications
+- 📫 Reach me at: **ramnarainanarunagiri@gmail.com**
 
-### Programming
-- Java
-- JavaScript
+---
 
-### Frontend
-- HTML
-- CSS
-- React.js
+## 🚀 Tech Stack
 
-### Backend
-- Spring Boot
-- REST API
-- JDBC
-- Hibernate
+### 💻 Programming
+Java | JavaScript | SQL
 
-### Database
-- MySQL
+### 🎨 Frontend
+HTML | CSS | React 
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Eclipse
-- Postman
-- AWS (Basics)
+### ⚙️ Backend
+Spring Boot | REST API | JDBC | Hibernate
+
+### 🗄️ Database
+MySQL
+
+### ☁️ Tools & Platforms
+Git | GitHub | Postman | AWS | VS Code | Eclipse
 
 ---
 
 ## 📂 Projects
 
-### 1️⃣ Employee Management System
+### 🔹 Employee Management System
 - Full Stack Web Application using React + Spring Boot + MySQL
 - CRUD Operations (Add, Update, Delete, View Employees)
 - REST API Integration
-  
+
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ARamnaraianan&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARamnaraianan&layout=compact)
-
----
-
-## 🌟 Starred Repositories
-Check my useful starred repositories here:  
-https://github.com/stars/ARamnaraianan
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ARamnaraianan&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARamnaraianan&layout=compact" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 🌐 Connect With Me
 - LinkedIn: https://linkedin.com/in/ramnaraianan-arunagiri
-- Email: ramnaraiananarunagiri@gmail.com
+- Email: ramnarainanarunagiri@gmail.com
+
+---
+
+## ⭐ Starred Repositories
+Check my GitHub Stars:  
+https://github.com/stars/ARamnaraianan
 
 ---
 
