@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ramnaraianan Arunagiri</h1>
-<h3 align="center">Java Full Stack Developer | Spring Boot | React | MySQL | Kafka</h3>
+<h3 align="center">Java Full Stack Developer | Spring Boot | React | MySQL </h3>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 BE Computer Science Graduate (2025)
 - 💻 Java Full Stack Developer
-- 🌱 Currently exploring Spring Cloud, Docker, and Redis
+- 🌱 Currently exploring Linux, Docker, and AWS
 - 🔭 Working on Full Stack Web Applications
 - 📫 Reach me at: **ramnarainanarunagiri@gmail.com**
 
@@ -57,9 +57,6 @@ Git | GitHub | Postman | AWS | VS Code | Eclipse | Render
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARamnaraianan&show_icons=true&include_all_commits=true&count_private=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARamnaraianan&layout=compact&theme=dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ARamnaraianan&theme=dark)
 
