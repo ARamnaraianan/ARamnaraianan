@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=620&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+MySQL;Building+REST+APIs+%26+Full-Stack+Apps;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-![github-snake](https://raw.githubusercontent.com/ARamnaraianan/ARamnaraianan/output/github-snake.svg)
+<!--![github-snake](https://raw.githubusercontent.com/ARamnaraianan/ARamnaraianan/output/github-snake.svg)-->
 
 </div>
 
